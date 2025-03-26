@@ -1,5 +1,4 @@
-import require from 'require'
-const http = require("http")
+const http = require.js("http")
 const PORT = 3000
 
 
